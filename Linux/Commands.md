@@ -25,3 +25,17 @@
 
 8. rm <filename>
 - Permanently deletes the specified file.
+
+9. cp <source> <destination>
+- Creates a copy of a file or folder.
+
+Example:
+cp main.c backup_main.c
+
+
+10. mv <source> <destination>
+- Moves or renames a file or folder.
+
+Examples:
+mv mian.c main.c
+mv main.c Day2/
