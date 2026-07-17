@@ -52,3 +52,9 @@ nano main.c
 Shortcuts:
 CTRL + O -> Save file
 CTRL + X -> Exit nano
+
+12. gcc main.c -o main
+- Compiles a C program and creates an executable file.
+
+13. ./main
+- Executes the compiled program.
