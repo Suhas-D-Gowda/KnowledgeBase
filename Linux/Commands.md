@@ -39,3 +39,16 @@ cp main.c backup_main.c
 Examples:
 mv mian.c main.c
 mv main.c Day2/
+
+11. nano <filename>
+
+- Opens a file in the Linux terminal text editor.
+- Creates the file if it doesn't already exist.
+
+Examples:
+nano hello.txt
+nano main.c
+
+Shortcuts:
+CTRL + O -> Save file
+CTRL + X -> Exit nano
