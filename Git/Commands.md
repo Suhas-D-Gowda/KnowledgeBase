@@ -1,3 +1,11 @@
+THIS IS PROBABLY WHAT I'LL BE USING ON A DAILY BASIS AS LONG AS I'M MAKING NOTES HERE ON vsCODE.
+
+git add .
+git commit -m "message"
+git push
+
+
+
 1. git init:
    used to initialize a folder with the GitHub (you get the gist of it)
 
